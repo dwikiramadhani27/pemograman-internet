@@ -1,0 +1,12 @@
+<div style="display: flex; flex-direction: column; padding: 20px 0 60px 0; justify-content: center; align-items: center;">
+    <img src="https://sribu-sg.s3.amazonaws.com/assets/media/contest_detail/2018/9/desain-logo-untuk-sepatu-sneakers-5b9bcf80faaa2644e5f69363/690fd4a5b4.jpg"height="230"widht="150">
+    
+    <h2 style="margin: 0; margin-top: 20px;">Selamat Datang di BOSNEAKER.com</h2>
+    <h4 style="margin: 0; margin-top: 5px">Cari lah sepatu idamanmu di sini!</h4>
+
+    <form method="GET" action="index.jsp" style="margin: 0; margin-top: 20px;">
+        <input type="hidden" name="action" value="search">
+        <input type="text" name="keyword" placeholder="Cari komponen komputer...">
+        <input type="submit" value="Cari">
+    </form>
+</div>
