@@ -1,0 +1,22 @@
+SMAP
+Random_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jspf
+header.jspf
++ 1 Random.jsp
+Random.jsp
+*L
+1:51
+3,3:53
+5:56
+6:57,3
+1#1,2:60
+3:62,9
+4,8:71
+12:79,3
+13,4:82
+17:86,3
+18,14:89
+*E
