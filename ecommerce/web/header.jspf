@@ -1,0 +1,13 @@
+<div style="display: flex; flex-direction: column; padding: 20px 0 60px 0; justify-content: center; align-items: center;">
+    <img src="https://ecs7-p.tokopedia.net/img/cache/215-square/shops-1/2018/11/12/4116757/4116757_48c4b1ad-41e3-4095-97ce-833b090c72b6.png"height="230"widht="150">
+    
+  
+    <h2 style="margin: 0; margin-top: 20px;">Selamat Datang di BOSNEAKER.com</h2>
+    <h4 style="margin: 0; margin-top: 5px">Cari lah sepatu yang kalian sukai di sini</h4>
+
+    <form method="GET" action="index.jsp" style="margin: 0; margin-top: 20px;">
+        <input type="hidden" name="action" value="search">
+        <input type="text" name="keyword" placeholder="Cari Sepatu Disini...">
+        <input type="submit" value="Cari">
+    </form>
+</div>
